@@ -1,0 +1,17 @@
+document.write(' <table width="100%" border="0" cellspacing="0" cellpadding="0"> '); 
+document.write(' <tr> '); 
+document.write(' <td colspan="7"><img src="../media/spacer.gif" width="1" height="6"></td> '); 
+document.write(' </tr> '); 
+document.write(' <tr> '); 
+document.write(' <td width="4%"><img src="../media/spacer.gif" width="20" height="1"></td> '); 
+document.write(' <td width="12%"><a href="http://www.das-architects.com" class="nav">home</a></td> '); 
+document.write(' <td width="19%"><a href="../pages/commercial_3.html" class="nav">commercial</a></td> '); 
+document.write(' <td width="16%"><a href="../pages/municipal_2.html" class="nav">municipal</a></td> '); 
+document.write(' <td width="17%"><a href="../pages/residential.html" class="nav">residential</a></td> '); 
+document.write(' <td width="11%"><a href="../pages/misc.html" class="nav">misc.</a></td> '); 
+document.write(' <td width="21%"><a href="mailto:david@das-architects.com" class="nav">contact us</a> </td> '); 
+document.write(' </tr> '); 
+document.write(' <tr> '); 
+document.write(' <td colspan="7"><img src="../media/spacer.gif" width="1" height="30"></td> '); 
+document.write(' </tr> '); 
+document.write(' </table> '); 
